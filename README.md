@@ -86,19 +86,19 @@ Double-click the installer, accept prompts, and finish setup. Prefer the officia
 Add your organization’s store URL, authenticate, then explore Home favorites and recent apps.
 
 
-![Sign in and open the Workspace UI](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-home.jpg)
+![Sign in and open the Workspace UI](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-home.jpg)
 
 **5. Browse Apps in Workspace**  
 Open the Apps view to see assigned application tiles and launch what IT published for your account.
 
 
-![Browse Apps in Workspace](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-apps.jpg)
+![Browse Apps in Workspace](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-apps.jpg)
 
 **6. Launch a desktop session**  
 From Desktops, open a virtual desktop and use Activity Manager / session controls when available.
 
 
-![Launch a desktop session](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-desktop-session.jpg)
+![Launch a desktop session](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-desktop-session.jpg)
 
 
 💡 Pro Tip: Keep your administrator’s store / Gateway URL handy before install. Without it the client installs fine but cannot list apps until the account is added.
@@ -110,17 +110,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 > **Note:** Screenshots below show the upstream Windows GUI and may come from a different build than the package version offered for download (**latest**). Menus and labels can vary slightly between releases.
 
 
-![Citrix Workspace Home dashboard showing apps, desktops, and files](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-home.jpg)
+![Citrix Workspace Home dashboard showing apps, desktops, and files](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-home.jpg)
 
 *Citrix Workspace Home — apps, desktops, and recent files in one client UI (software screenshot; may differ from download build latest)*
 
 
-![Citrix Workspace Apps catalog with application tiles](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-apps.jpg)
+![Citrix Workspace Apps catalog with application tiles](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-apps.jpg)
 
 *Citrix Workspace Apps view — tiled catalog of assigned applications (software screenshot; may differ from download build latest)*
 
 
-![Citrix Workspace with an open virtual desktop session](https://raw.githubusercontent.com/placeholder/citrix-workspace-guide/main/docs/images/citrix-workspace-desktop-session.jpg)
+![Citrix Workspace with an open virtual desktop session](https://raw.githubusercontent.com/rhkbmqpn/citrix-workspace-guide/main/docs/images/citrix-workspace-desktop-session.jpg)
 
 *Citrix Workspace Desktops — launched virtual desktop session window (software screenshot; may differ from download build latest)*
 
