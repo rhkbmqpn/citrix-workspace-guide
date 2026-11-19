@@ -141,17 +141,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-18)
+## Today’s note (2026-11-19)
 
-**Guide last reviewed:** 2026-11-18  
-Guide copy was refreshed for readers searching Citrix Workspace app for Windows download help.
+**Guide last reviewed:** 2026-11-19  
+Useful Links still point to the live guide plus official Citrix documentation hubs.
 
 ### Tip of the day
-If search finds nothing, refresh apps from the account menu after VPN / Gateway reconnect.
+Keep Windows 10/11 updated — Workspace client features often assume current cumulative patches.
 
 ### Related tools today
-- [Wireshark](https://2nogsd.com/wireshark/) — World-class network protocol analyzer for Windows.
 - [Nmap](https://2nogsd.com/nmap/) — Network discovery and security auditing utility.
 - [PuTTY](https://2nogsd.com/putty/) — Classic SSH and Telnet client for Windows.
+- [Advanced IP Scanner](https://2nogsd.com/advanced-ip-scanner/) — Fast LAN scanner to find devices, shares, and remote access targets.
 
 *Auto-refreshed documentation note for [2nogsd.com](https://2nogsd.com/citrix-workspace/) — Citrix Workspace guide.*
