@@ -141,17 +141,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-19)
+## Today’s note (2026-11-20)
 
-**Guide last reviewed:** 2026-11-19  
-Useful Links still point to the live guide plus official Citrix documentation hubs.
+**Guide last reviewed:** 2026-11-20  
+We re-checked the Citrix Workspace Windows download path, store login notes, and UI screenshots.
 
 ### Tip of the day
-Keep Windows 10/11 updated — Workspace client features often assume current cumulative patches.
+Desktop power actions (restart/shutdown) only appear when your admin enables them for assigned desktops.
 
 ### Related tools today
-- [Nmap](https://2nogsd.com/nmap/) — Network discovery and security auditing utility.
 - [PuTTY](https://2nogsd.com/putty/) — Classic SSH and Telnet client for Windows.
 - [Advanced IP Scanner](https://2nogsd.com/advanced-ip-scanner/) — Fast LAN scanner to find devices, shares, and remote access targets.
+- [Angry IP Scanner](https://2nogsd.com/angry-ip-scanner/) — Cross-platform, open-source network scanner.
 
 *Auto-refreshed documentation note for [2nogsd.com](https://2nogsd.com/citrix-workspace/) — Citrix Workspace guide.*
