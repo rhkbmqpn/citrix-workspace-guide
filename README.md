@@ -141,17 +141,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-20)
+## Today’s note (2026-11-23)
 
-**Guide last reviewed:** 2026-11-20  
-We re-checked the Citrix Workspace Windows download path, store login notes, and UI screenshots.
+**Guide last reviewed:** 2026-11-23  
+Useful Links still point to the live guide plus official Citrix documentation hubs.
 
 ### Tip of the day
-Desktop power actions (restart/shutdown) only appear when your admin enables them for assigned desktops.
+Bookmark this guide page so download and first-run notes stay aligned with your live site.
 
 ### Related tools today
-- [PuTTY](https://2nogsd.com/putty/) — Classic SSH and Telnet client for Windows.
-- [Advanced IP Scanner](https://2nogsd.com/advanced-ip-scanner/) — Fast LAN scanner to find devices, shares, and remote access targets.
-- [Angry IP Scanner](https://2nogsd.com/angry-ip-scanner/) — Cross-platform, open-source network scanner.
+- [NetLimiter](https://2nogsd.com/netlimiter/) — Internet traffic control and monitoring for Windows.
+- [Clash Verge](https://2nogsd.com/clash-verge/) — Modern GUI client for Clash-compatible proxy configs.
+- [v2rayN](https://2nogsd.com/v2rayn/) — Popular Windows GUI for VLESS/VMess and related proxies.
 
 *Auto-refreshed documentation note for [2nogsd.com](https://2nogsd.com/citrix-workspace/) — Citrix Workspace guide.*
