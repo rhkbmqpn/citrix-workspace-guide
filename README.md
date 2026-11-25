@@ -141,17 +141,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-23)
+## Today’s note (2026-11-25)
 
-**Guide last reviewed:** 2026-11-23  
-Useful Links still point to the live guide plus official Citrix documentation hubs.
+**Guide last reviewed:** 2026-11-25  
+Today’s review focused on first-run setup: install → add store URL → favorites on Home.
 
 ### Tip of the day
-Bookmark this guide page so download and first-run notes stay aligned with your live site.
+Prefer the official Citrix Workspace app for Windows package; avoid third-party mirrors.
 
 ### Related tools today
-- [NetLimiter](https://2nogsd.com/netlimiter/) — Internet traffic control and monitoring for Windows.
-- [Clash Verge](https://2nogsd.com/clash-verge/) — Modern GUI client for Clash-compatible proxy configs.
 - [v2rayN](https://2nogsd.com/v2rayn/) — Popular Windows GUI for VLESS/VMess and related proxies.
+- [Proxifier](https://2nogsd.com/proxifier/) — Commercial proxifier to force apps through a proxy.
+- [Alighieri](https://2nogsd.com/alighieri/) — SOCKS5-over-TLS companion listener for ProxiFyre setups.
 
 *Auto-refreshed documentation note for [2nogsd.com](https://2nogsd.com/citrix-workspace/) — Citrix Workspace guide.*
