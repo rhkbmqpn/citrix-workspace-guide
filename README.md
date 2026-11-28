@@ -141,17 +141,17 @@ From Desktops, open a virtual desktop and use Activity Manager / session control
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-25)
+## Today’s note (2026-11-28)
 
-**Guide last reviewed:** 2026-11-25  
-Today’s review focused on first-run setup: install → add store URL → favorites on Home.
+**Guide last reviewed:** 2026-11-28  
+We re-checked the Citrix Workspace Windows download path, store login notes, and UI screenshots.
 
 ### Tip of the day
-Prefer the official Citrix Workspace app for Windows package; avoid third-party mirrors.
+Use Activity Manager to disconnect or log off sessions cleanly when your policy exposes those controls.
 
 ### Related tools today
-- [v2rayN](https://2nogsd.com/v2rayn/) — Popular Windows GUI for VLESS/VMess and related proxies.
-- [Proxifier](https://2nogsd.com/proxifier/) — Commercial proxifier to force apps through a proxy.
-- [Alighieri](https://2nogsd.com/alighieri/) — SOCKS5-over-TLS companion listener for ProxiFyre setups.
+- [SocksCap64](https://2nogsd.com/sockscap64/) — Force selected Windows apps through SOCKS proxies.
+- [Tor Browser](https://2nogsd.com/tor-browser/) — Privacy-focused browser routing traffic over Tor.
+- [Outline Client](https://2nogsd.com/outline-client/) — Simple Shadowsocks-based client from Jigsaw.
 
 *Auto-refreshed documentation note for [2nogsd.com](https://2nogsd.com/citrix-workspace/) — Citrix Workspace guide.*
